@@ -8,19 +8,19 @@ SYSTEM REQUIREMENTS
 
 STEPS TO CREATE DATABASE 
 
-Open crud_operartions.sql
-Execute the queries in your mysql.
+1.Open crud_operartions.sql
+2.Execute the queries in your mysql.
 
 STEPS TO IMPORT PROJECT INTO ECLIPSE
 
-Import the CRUD_Operartions directory into the eclipse workspace.
-Traverse from /CRUD_Operartions/src/main/java/Model/Registration.java
-Here in line number 18 and 19, provide your mysql username and password.
+1.Import the CRUD_Operartions directory into the eclipse workspace.
+2.Traverse from /CRUD_Operartions/src/main/java/Model/Registration.java
+3.Here in line number 18 and 19, provide your mysql username and password.
 
 STEPS TO RUN THE PROJECT
 
-Right click on the project.
-Select Run As..
-Select Run On Server.
-On the pop up window select the server and click on finish.
-The project will run on the browser.
+1.Right click on the project.
+2.Select Run As..
+3.Select Run On Server.
+4.On the pop up window select the server and click on finish.
+5.The project will run on the browser.
